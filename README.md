@@ -60,6 +60,10 @@ bharat-medics/
 └── README.md        # Project documentation
 
 
+
+
+
+
 📸 Screenshots
 <img width="1422" height="847" alt="Screenshot 2025-08-21 at 4 25 28 PM" src="https://github.com/user-attachments/assets/99d3ae9f-c8f2-4818-81af-e60a313c5378" />
 
