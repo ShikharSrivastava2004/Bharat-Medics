@@ -1,6 +1,6 @@
-Bharat-Medics 🏥
+# **Bharat Medics** 🏥  
 
-An online Doctor Appointment Booking Web App with AI-powered chatbot assistance.
+An online **Doctor Appointment Booking Web App** with AI-powered chatbot assistance.  
 
 🌐 Live Links
 
