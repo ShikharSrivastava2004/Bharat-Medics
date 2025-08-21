@@ -4,7 +4,7 @@
 
  Users : https://bharat-medics.netlify.app
 
- Admin & Doctors : https://bharat-medics-admin.onrender.com/
+ Admin & Doctors : https://admin-doctor-bharat-medics.netlify.app/
 =======
 Bharat Medics is a online doctor appointment booking site with Ai Chatbot for assisting
 >>>>>>> 
